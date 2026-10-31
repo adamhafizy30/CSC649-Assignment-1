@@ -1,4 +1,4 @@
-# CSC649-Assignment-1
+649# CSC649-Assignment-1
 
 # Rapid KL Bus Arrival Prediction
 Predicting Rapid KL bus arrival times at each stop using machine learning, to give commuters more reliable waiting information.
@@ -19,4 +19,4 @@ Machine Learning (supervised regression) using open GTFS data from data.gov.my.
 In progress
 
 # Author
-Adam Hafizy, Bachelor of Computer Science,  @adamhafizy30
+Adam Hafizy Bin Rahim, CSC649 Special Topics in Computer Sciences,  GitHub: https://github.com/adamhafizy30
