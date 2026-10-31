@@ -1,4 +1,4 @@
-#Specialized Technology & Fundamental Concepts 
+# Specialized Technology & Fundamental Concepts 
 
 C1 Fundamental Concepts
 - Machine Learning (ML): the computer learns patterns from past data instead of following fixed rules written by a programmer.
