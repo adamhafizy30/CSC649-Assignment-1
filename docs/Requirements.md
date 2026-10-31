@@ -1,6 +1,6 @@
 # Functional, Non-functional Requirements & User Stories
 
-- Functional
+B1 Functional Requirements
 
 | ID  | Requirement                                                        |
 |-----|--------------------------------------------------------------------|
@@ -14,7 +14,7 @@
 | FR8 | The system shall notify the user when a bus is predicted to arrive at a favourite stop within a user-chosen number of minutes. |
 | FR9 | The system shall let the user report that a bus did not arrive at the predicted time. |
 
-- Non-functional
+B2 Non-functional Requirements
 
 | ID  | Type | Requirement                                                  |
 |-----|------|--------------------------------------------------------------|
@@ -25,7 +25,7 @@
 | NFR5 | Security | The system shall use the user's location only after the user grants permission and shall not store the user's location on the server. The system shall label each displayed time as either "Scheduled" or "Live estimate". |
 
 
-- User Stories
+B3 User Stories
 
 US1 (FR2, FR3) As a daily commuter, I want to see when the next two buses will arrive at my stop, so that I can decide whether to wait or walk to another route.
 
@@ -37,3 +37,9 @@ US2 (FR4, FR5) As a first-time rider, I want to know whether a time is scheduled
 
 - AC1: Every time on screen carries a "Scheduled" or "Live estimate" label.
 - AC2: When live data is unavailable, all times for that route change to "Scheduled".
+
+US3 (FR7, FR8) As a student who takes the same bus every morning, I want an alert before my bus arrives at my saved stop, so that I can leave home at the right time and wait less.
+
+- AC1: The user can choose an alert time of 5, 10 or 15 minutes for a favourite stop.
+- AC2: A notification is sent when the predicted arrival is equal to or less than the chosen time.
+- AC3: No notification is sent if the user turned alerts off for that stop.
