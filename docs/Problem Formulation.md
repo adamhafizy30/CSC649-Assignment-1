@@ -25,8 +25,8 @@ In scope
 Out of scope
 
 - LRT, MRT and Monorail trains
-- Ticketing, My50 pass, payments, rewards
-- Full journey planning (A-to-B routing)
+- Ticketing, My50 pass, payments
+- Full journey planning (A to B routing)
 - Bus crowding/passenger counts (the data has no boarding info)
 - Installing new GPS hardware on buses
 - Rapid Penang and Rapid Kuantan
