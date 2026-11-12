@@ -29,4 +29,3 @@ Out of scope
 - Full journey planning (A to B routing)
 - Bus crowding/passenger counts (the data has no boarding info)
 - Installing new GPS hardware on buses
-- Rapid Penang and Rapid Kuantan
