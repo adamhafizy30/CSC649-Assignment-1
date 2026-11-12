@@ -17,7 +17,7 @@ Stakeholders
 
 In scope
 
-- Rapid KL stage buses (category rapid-bus-kl) in the Klang Valley
+- Rapid KL stage buses in the Klang Valley
 - Predicting bus arrival time at each stop on a route
 - Showing predicted vs scheduled time, and alerts for saved stops
 - Using historical and live GTFS vehicle-position data
