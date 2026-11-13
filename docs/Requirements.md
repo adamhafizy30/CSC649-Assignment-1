@@ -1,6 +1,6 @@
-# Functional, Non-functional Requirements & User Stories
+# PART B : REQUIREMENTS
 
-B1 Functional Requirements
+## B1 Functional Requirements
 
 | ID  | Requirement                                                        |
 |-----|--------------------------------------------------------------------|
@@ -14,7 +14,7 @@ B1 Functional Requirements
 | FR8 | The system shall notify the user when a bus is predicted to arrive at a favourite stop within a user-chosen number of minutes. |
 | FR9 | The system shall let the user report that a bus did not arrive at the predicted time. |
 
-B2 Non-functional Requirements
+## B2 Non-functional Requirements
 
 | ID  | Type | Requirement                                                  |
 |-----|------|--------------------------------------------------------------|
@@ -25,7 +25,7 @@ B2 Non-functional Requirements
 | NFR5 | Security | The system shall use the user's location only after the user grants permission and shall not store the user's location on the server. The system shall label each displayed time as either "Scheduled" or "Live estimate". |
 
 
-B3 User Stories
+## B3 User Stories
 
 US1 (FR2, FR3) As a daily commuter, I want to see when the next two buses will arrive at my stop, so that I can decide whether to wait or walk to another route.
 
