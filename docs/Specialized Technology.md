@@ -14,8 +14,8 @@ C2 Methods and Tools
 |------|---------------------|
 | Linear Regression	| Simple baseline model for predicting travel time |
 | Random Forest |	Main model which handles complex patterns like peak hour + rain |
-| scikit-learn | Python library to train and test the models |
-| pandas | Python library to clean the data and create features |
+| Scikit-learn | Python library to train and test the models |
+| Pandas | Python library to clean the data and create features |
 
 
 C3 Fit to the Problem
