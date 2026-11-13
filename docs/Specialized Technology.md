@@ -1,6 +1,6 @@
-# Specialized Technology & Fundamental Concepts 
+# PART C : SPECIALIZED TECHNOLOGY and FUNDAMENTAL CONCEPTS
 
-C1 Fundamental Concepts
+## C1 Fundamental Concepts
 - Machine Learning (ML) : the computer learns patterns from past data instead of following fixed rules written by a programmer.
 - Supervised learning : the model learns from past bus trips where the actual travel time between stops is already known.
 - Regression : the model predicts a number, which here is the minutes until the bus arrives.
@@ -9,7 +9,7 @@ C1 Fundamental Concepts
 - How it works : collect data → clean → train model → test → predict live arrival times.
 - Evaluation : Mean Absolute Error (MAE), the average difference between predicted and actual time.
 
-C2 Methods and Tools
+## C2 Methods and Tools
 | Name | Use in this project |
 |------|---------------------|
 | Linear Regression	| Simple baseline model for predicting travel time |
@@ -18,7 +18,7 @@ C2 Methods and Tools
 | Pandas | Python library to clean the data and create features |
 
 
-C3 Fit to the Problem
+## C3 Fit to the Problem
 - How it helps : ML can predict the arrival time at each bus stop, which MyRapid PULSE currently does not show reliably.
 - Benefits
   - Uses existing open data, so no new hardware is needed
