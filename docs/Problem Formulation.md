@@ -1,6 +1,6 @@
 # Problem Statement & Scope
 Rapid KL bus commuters in Greater KL. The new PULSE app that launched in May 2025 approximately has 240,000 downloads, 96,000 active users and 34,426 weekly users 
-of real-time bus tracking (Marlia Z., 2026). PULSE shows bus departure times from the terminal but not arrival times at intermediate stops and does not clearly separate scheduled times from real-time estimates. Commuters say the times are "not always accurate" (Gregory H. W. S. et al., 2025). Commuters wait at stops without knowing when the bus will come ,which wastes time and lowers trust in public transport. Some may switch to e-hailing.
+of real-time bus tracking (Marlia Z., 2026). PULSE shows bus departure times from the terminal but not arrival times at intermediate stops and does not clearly separate scheduled times from real-time estimates. Commuters say the times are "not always accurate" (Ho et al., 2025). Commuters wait at stops without knowing when the bus will come ,which wastes time and lowers trust in public transport. Some may switch to e-hailing.
 
 
 Main users
