@@ -7,11 +7,11 @@ Rapid KL bus commuters cannot get reliable bus arrival times at each stop from t
 Many people use Rapid KL buses every day and depend on the MyRapid PULSE app to know when their bus will come. However, the app only shows when a bus leaves the terminal, not when it will reach each bus stop and users say the times shown are not always accurate (Ho et al., 2025). As a result, commuters wait at bus stops without knowing when the bus will arrive, which wastes their time. Some may give up and switch to e-hailing or private cars, which reduces trust in public transport.
 
 ## Documents
-- [Introduction](docs/introduction.md)
-- [Problem Formulation](docs/problem-formulation.md)
-- [Requirements](docs/requirements.md)
-- [Specialized Technology](docs/specialized-technology.md)
-- [References](docs/references.md)
+- [Introduction](docs/Introduction.md)
+- [Problem Formulation](docs/Problem-Formulation.md)
+- [Requirements](docs/Requirements.md)
+- [Specialized Technology](docs/Specialized-Technology.md)
+- [References](docs/References.md)
 
 ## Technology
 Machine Learning: predicting bus arrival times by learning from past bus trip data, using open GTFS data from data.gov.my.
